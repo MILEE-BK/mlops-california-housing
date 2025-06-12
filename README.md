@@ -197,7 +197,7 @@ docker run -p 8000:8000 housing-api
 This will start your FastAPI server on port 8000.
 
 #screenshot
-(Images/Screenshot\_(58).png)
+![Screenshot](<Images/Screenshot_(58).png>)
 
 ---
 
