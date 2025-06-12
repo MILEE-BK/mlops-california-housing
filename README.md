@@ -5,8 +5,8 @@ This project walks you through building a complete machine learning pipeline usi
 - Google Colab – to train the model
 - MLflow – to track the model
 - FastAPI – to serve the model
-- Docker – to package and run the model as an API
-
+- Docker – to containerize and deploy
+  
 The dataset used is the California Housing dataset, and the model is a simple Linear Regression.
 
 ---
