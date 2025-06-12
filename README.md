@@ -6,7 +6,7 @@ This project walks you through building a complete machine learning pipeline usi
 - MLflow – to track the model
 - FastAPI – to serve the model
 - Docker – to containerize and deploy
-  
+
 The dataset used is the California Housing dataset, and the model is a simple Linear Regression.
 
 ---
@@ -195,6 +195,9 @@ docker build -t housing-api .
 docker run -p 8000:8000 housing-api
 
 This will start your FastAPI server on port 8000.
+
+#screenshot
+(Images/Screenshot\_(58).png)
 
 ---
 
