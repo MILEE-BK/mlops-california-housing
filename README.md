@@ -231,5 +231,6 @@ http://localhost:8000/docs
 
 3. Click “Execute”.
    You’ll get a predicted house price in the response.
+   ![Screenshot](<Images/Screenshot_(61).png>)
 
 ---
